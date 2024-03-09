@@ -1,0 +1,26 @@
+{
+"name": "harmony-gf-2",
+"version": "1.0.0",
+"description": "a comprehensive platform designed to facilitate collaboration and communication among musicians, composers, and music enthusiasts. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/shaniyaaq214346/harmony.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "shaniyaaq214346",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
